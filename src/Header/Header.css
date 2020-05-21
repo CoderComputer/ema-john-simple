@@ -1,0 +1,25 @@
+.logo img{
+    height: 80px;
+}
+.logo{
+    text-align: center;
+}
+nav{
+    background-color: black;
+    line-height: 40px;
+}
+.nav-bar{
+    width: 1140px;
+    margin: auto;
+    text-align: start;
+}
+.nav-bar a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+}
+.nav-bar a:hover{
+    background-color: gray;
+}

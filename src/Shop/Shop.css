@@ -1,0 +1,15 @@
+.product-details{
+    margin: auto;
+    border-right: 1px solid lightgray;
+}
+.cart-container{
+    width: 500px;
+    margin-left: 20px;
+    text-align: left;
+}
+.shop-container{
+    display: flex;
+    width: 1140px;
+    margin: auto;
+    position: sticky;
+}
